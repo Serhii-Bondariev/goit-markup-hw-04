@@ -284,7 +284,7 @@ img {
 /* forth-section_our-team  */
 
 .our-team-container {
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 
 .our-team {
@@ -452,20 +452,25 @@ img {
 .social-media {
   display: flex;
   justify-content: center;
-  padding: 8px;
+
   gap: 24px;
-  column-gap: 16px;
 }
 
 .social-list-link {
   display: flex;
   justify-content: center;
+  align-items: center;
   width: 40px;
   height: 40px;
   border-radius: 50%;
   background-color: #4d5ae5;
-  column-gap: 20px;
+  column-gap: 24px;
 }
+
+/* .social-list-icon {
+  display: flex;
+  justify-content: center;
+} */
 
 /* delete-me-after */
 .delete-me-after {
