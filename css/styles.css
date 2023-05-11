@@ -238,11 +238,6 @@ img {
   margin-bottom: 8px;
 }
 
-.our-list-icon {
-  width: 64px;
-  height: 64px;
-}
-
 .our-goal-item {
   width: calc((100% - 72px) / 4);
 }
@@ -457,7 +452,8 @@ img {
 .social-media {
   display: flex;
   justify-content: center;
-
+  padding: 8px;
+  gap: 24px;
   column-gap: 16px;
 }
 
