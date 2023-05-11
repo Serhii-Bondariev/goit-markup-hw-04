@@ -422,13 +422,31 @@ img {
 
 /* Social media */
 
+.social-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  text-align: center;
+
+  color: #ffffff;
+}
+
 .social-media {
+  display: flex;
+  justify-content: center;
+
+  column-gap: 16px;
 }
-.social-media-item {
-}
-.cocial-list-link {
-}
-.social-list-icon {
+
+.social-list-link {
+  display: flex;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #4d5ae5;
+  column-gap: 20px;
 }
 
 /* delete-me-after */
