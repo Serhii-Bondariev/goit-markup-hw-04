@@ -226,6 +226,23 @@ img {
   gap: 24px;
 }
 
+/* svg_line */
+
+.our-icons-bgrd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background: #f4f4fd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+
+.our-list-icon {
+  width: 64px;
+  height: 64px;
+}
+
 .our-goal-item {
   width: calc((100% - 72px) / 4);
 }
