@@ -449,23 +449,20 @@ img {
   color: #ffffff;
 } */
 
-/* .social-media {
+.social-media {
   display: flex;
   justify-content: center;
-
   gap: 24px;
-} */
+}
 
 .social-list-link {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 8px;
   width: 40px;
   height: 40px;
   border-radius: 50%;
   background-color: #4d5ae5;
-  column-gap: 24px;
 }
 
 /* .social-list-icon {
