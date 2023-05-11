@@ -439,7 +439,7 @@ img {
 
 /* Social media */
 
-.social-title {
+/* .social-title {
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
@@ -447,19 +447,20 @@ img {
   text-align: center;
 
   color: #ffffff;
-}
+} */
 
-.social-media {
+/* .social-media {
   display: flex;
   justify-content: center;
 
   gap: 24px;
-}
+} */
 
 .social-list-link {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 8px;
   width: 40px;
   height: 40px;
   border-radius: 50%;
