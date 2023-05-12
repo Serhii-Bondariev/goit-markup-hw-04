@@ -468,6 +468,7 @@ img {
   height: 40px;
   border-radius: 50%;
   background-color: #4d5ae5;
+  fill: var(--background-light);
 }
 
 /* .social-list-icon {
