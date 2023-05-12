@@ -455,6 +455,11 @@ img {
   gap: 24px;
 }
 
+.social-list-link:hover,
+.social-list-link:focus {
+  background-color: #404bbf;
+}
+
 .social-list-link {
   display: flex;
   justify-content: center;
