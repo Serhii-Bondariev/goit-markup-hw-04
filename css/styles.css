@@ -408,6 +408,9 @@ img {
   column-gap: 24px;
   row-gap: 48px;
 }
+.portfolio-links {
+  display: block;
+}
 
 .portfolio-list :hover,
 .portfolio-list :focus {
@@ -483,4 +486,21 @@ img {
 .delete-me-after {
   margin-right: auto;
   margin-left: auto;
+}
+
+/* footer-social */
+
+.footer-social-title {
+}
+
+.footer-social-media {
+}
+
+.footer-social-media-item {
+}
+
+.footer-social-list-link {
+}
+
+.footer-social-list-icon {
 }
