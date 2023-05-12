@@ -538,6 +538,12 @@ img {
 }
 /* .customers-div-bcgr {
 } */
+.customers-link:hover,
+.customers-link:focus{
+  border-color: #404bbf;
+  color: #404bbf;
+}
+
 .customers-link {
   display: flex;
   align-items: center;
@@ -549,8 +555,9 @@ img {
   color: var(--icon-color #8e8f99);
 }
 
-/* .customers-icon {
-} */
+.customers-icon {
+  fill: currentColor; 
+}
 
 
 
