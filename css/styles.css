@@ -457,7 +457,7 @@ img {
 
 .social-list-link:hover,
 .social-list-link:focus {
-  background-color: #404bbf;
+  background-color: var(--pressed-btn);
 }
 
 .social-list-link {
