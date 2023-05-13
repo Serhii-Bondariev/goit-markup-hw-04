@@ -50,6 +50,7 @@ img {
 /* header */
 
 .container {
+  align-content: center;
   width: 1158px;
   margin-left: auto;
   margin-right: auto;
@@ -166,7 +167,8 @@ img {
 /* Main-content */
 
 .hero {
-  justify-content: center;
+margin-left: auto;
+margin-right: auto;
   padding: 188px 0;
   background: #2e2f42;
   background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
@@ -414,8 +416,8 @@ img {
   display: block;
 }
 
-.portfolio-list :hover,
-.portfolio-list :focus {
+.portfolio-item:hover,
+.portfolio-item:focus {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16),
     0px 2px 1px rgba(46, 47, 66, 0.08);
 }
